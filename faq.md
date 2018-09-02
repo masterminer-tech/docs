@@ -45,7 +45,7 @@ Masterminer.tech currently accepts the following payment options:
 
 1. Select **Tools** on the menu panel and click **Debug Console**.
 
-2. Type *masternode outputs* on the command input and press Enter. 
+2. Type `masternode outputs` on the command input and press Enter. 
 
 3. View console output to get the txid (the first item in the pair underlined in **red**)   
 and index (the second item in the pair underlined in **blue**) . Exclude the quotation marks (“).
