@@ -1,11 +1,11 @@
 <img src="https://s3.amazonaws.com/masterminer/mn_logo.svg" alt="Masterminer" width="300px"/>
 
 # HOW TO HOST YOUR OWN MASTERNODE 
-1. Register and login at https://www.masterminer.tech  
+1. Register and login at https://masterminer.tech/
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_login.png" alt="Masterminer" width="500px"/>
 
-2. Click Dashboard and enter your Masternode's **Preferred Name**, **Masternode Private Key**,   
-**Transaction ID**, **Index** and **Payment details** (for MasterMiner’s subscription fee)  
+2. Click Dashboard and enter your Masternode's `Preferred Name, Masternode Private Key,   
+Transaction ID, Index and Payment details` (*for MasterMiner’s subscription fee*)  
 *Note:  masternode private key is not your wallet private key. This key only allows us to verify your  
 masternode ownership while having zero control over your funds.*   
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_deploy.png" alt="Masterminer" width="500px"/>
