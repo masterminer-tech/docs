@@ -64,8 +64,9 @@ and index (the second item in the pair underlined in **blue**) . Exclude the quo
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_faq_04b.png" alt="MasterminerStates" width="500px"/>  
 
 4. On the Coin Selection window, click all checkboxes with an amount less than 100,000, then press Ok.
-<img src="https://s3.amazonaws.com/masterminer/docs/mu_faq_04c.png" alt="MasterminerStates" width="500px"/>  
-- *This step is essential to specifically tell the wallet where to get the funds during transfer Without this, your wallet may take away some funds from your reserved 100K, thus making it ineligible for Masternodes.*
+<img src="https://s3.amazonaws.com/masterminer/docs/mu_faq_04c.png" alt="MasterminerStates" width="500px"/>
+
+```This step is essential to specifically tell the wallet where to get the funds during transfer Without this, your wallet may take away some funds from your reserved 100K, thus making it ineligible for Masternodes.```
 
 5. Send 100,000 SYS to your wallet.
 
