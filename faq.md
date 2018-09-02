@@ -10,7 +10,7 @@ We've got you covered! We'll be monitoring and maintaining the masternodes by ke
 
 #### How can I pay for the service?
 Masterminer.tech currently accepts the following payment options:   
-`Credit cards`, `BTC`, `ETH`, `BCH`, `LTC`, `SYS`
+`Credit cards, BTC, ETH, BCH, LTC, SYS`
 
 *** 
 
@@ -34,7 +34,7 @@ Masterminer.tech currently accepts the following payment options:
 
 1. Select **Tools** on the menu panel and click **Debug Console**.
 
-2. Type *masternode genkey* on the command input and press Enter. 
+2. Type `masternode genkey` on the command input and press Enter. 
 
 3. View console output to get the masternode key.
 
@@ -60,13 +60,12 @@ and index (the second item in the pair underlined in **blue**) . Exclude the quo
  enable **Enable coin control features** then click Ok.  
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_faq_04a.png" alt="MasterminerStates" width="500px"/>
 
-3. Back on the main window, select  **Send ** on the toolbar and click  **Inputs**.  
+3. Back on the main window, select  **Send** on the toolbar and click  *Inputs*.  
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_faq_04b.png" alt="MasterminerStates" width="500px"/>  
 
 4. On the Coin Selection window, click all checkboxes with an amount less than 100,000, then press Ok.
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_faq_04c.png" alt="MasterminerStates" width="500px"/>  
-*This step is essential to specifically tell the wallet where to get the funds during transfer.*  
-*Without this, your wallet may take away some funds from your reserved 100K, thus making it ineligible for Masternodes.*
+- *This step is essential to specifically tell the wallet where to get the funds during transfer Without this, your wallet may take away some funds from your reserved 100K, thus making it ineligible for Masternodes.*
 
 5. Send 100,000 SYS to your wallet.
 
