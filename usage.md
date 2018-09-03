@@ -10,36 +10,35 @@ Transaction ID, Index and Payment details` (*for MasterMiner’s subscription fe
 masternode ownership while having zero control over your funds.*   
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_deploy.png" alt="Masterminer" width="500px"/>
 
-3. After entering all required information in the Dashboard, click **DEPLOY**.   
-Your Masternode will show up on your  Dashboard once deployed.
+3. After entering all required information in the create node process, click **DEPLOY**.   
+Your Masternode will show up on your Dashboard once deployed. (*this process may take up to 5 mins*)
 
-4. Select the recently deployed Masternode. On the Edit Master node popup, copy the *configuration text*   
-and paste it somewhere easily accessible. We will use this soon.  
+4. Select the recently deployed Masternode. On the edit dropdown, Select **Conbfig**, copy the *masternode configuration text* and paste it somewhere easily accessible. We will use this soon.  
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_dashboard.png" alt="Masterminer" width="500px"/>
 
-5. Leave MasterMiner.tech site for now and open your wallet app (QT Wallet).   
-Notice the *"out of sync"* status and the green loader bar at the bottom.   
+5. Leave Masterminer site and open your wallet app (QT Wallet).   
+Notice the *out of sync* status and the green loader bar at the bottom.   
 The indicator will go away once your wallet is fully synchronized with the network. Please wait for it.  
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_walletboot.png" alt="Masterminer" width="500px"/>
 
 
-6. Select the Tools menu and click **Open Masternode Configuration File**. The Masternode config file will open in a text editor.  
-Remove existing content and paste the configuration from MasterMiner.tech site (step #4), then save and close the file.   
+6. Select the **Tools** menu and click **Open Masternode Configuration File**. A file will open in a text editor.  
+Paste the masternode configuration from Masterminer config dashboard (step #4), then save and close the file.   
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_walletsettings.png" alt="Masterminer" width="500px"/>  
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_walletconfig.png" alt="Masterminer" width="500px"/>  
 Alternatively, if the Masternode config file is not showing up using the wallet menu,  
-search for the masternode.conf on this location:   
-[MacOS]  *:/Users/[your_username]/Library/Application Support/SyscoinCore*  
-[Windows] *:\Users\[your_username]\AppData\Roaming\SyscoinCore*  
-Open the file using a text editor and replace its content with the configuration from   
-MasterMiner.tech site (step #4), then save and close the file.
+search for the `masternode.conf` in this location:   
+**[MacOS]**  `:/Users/[your_username]/Library/Application Support/SyscoinCore`
+**[Windows]** `:\Users\[your_username]\AppData\Roaming\SyscoinCore`
+Open the file using a text editor and replace its content with the masternode configuration from   
+Masterminer config dashboard (step #4), then save and close the file.
 
-7. Close the wallet app and reopen it. If the synchronization is successful, the green status bar should no longer be visible.  
-Click the Masternodes tab and select **Start All**.  
+7. Close the wallet app and reopen it. When the synchronization is successful, the green status bar should no longer be visible.  
+Click the Masternodes tab and select **Initialize All**.  
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_synced.png" alt="Masterminer" width="500px"/>  
 
-8.  Wait for 2 hours and check the Status column for ENABLED status. Once shown ENABLED, you can close the Wallet and enjoy your rewards!  
-However, if the status is not shown as  ENABLED, repeat [step #7]. Wait for it to synchronize and repeat step #8 until ENABLED status is shown.  
+8.  Wait up to 2 hours and check the *Status column* for ENABLED status. Once shown ENABLED, you can close the Wallet and enjoy your rewards!  
+However, if the status is not shown as  ENABLED after 2 hours, repeat [step #7]. Wait for it to synchronize and repeat step #8 until ENABLED status is shown.  
 
 
 ### Masternode Deployment States
