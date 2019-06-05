@@ -29,9 +29,9 @@ Paste the masternode configuration from Masterminer dashboard (step #4), then sa
 Alternatively, if the Masternode config file does not open from the wallet menu,  
 search for the `masternode.conf` file in these locations:   
 
-**[MacOS]**  `:/Users/replace_with_your_username/Library/Application Support/SyscoinCore`
+**[MacOS]**  `/Users/replace_with_your_username/Library/Application Support/Syscoin`
 
-**[Windows]** `:\Users\replace_with_your_username\AppData\Roaming\SyscoinCore`
+**[Windows]** `\Users\replace_with_your_username\AppData\Roaming\Syscoin`
 
 
 7. Restart your qt wallet. wait for it to sync. the green status bar should no longer be visible.  
