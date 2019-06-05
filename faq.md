@@ -32,7 +32,7 @@ Masterminer.tech currently accepts the following payment options:
 
 #### Where do I find my Masternode Private Key?
 
-1. Select **Tools** on the menu panel and click **Debug Console**.
+1. Select **Windows** on the menu panel and click **Console**.
 
 2. Type `masternode genkey` on the command input and press Enter. 
 
@@ -43,7 +43,7 @@ Masterminer.tech currently accepts the following payment options:
 
 #### Where do I find my txid and index?
 
-1. Select **Tools** on the menu panel and click **Debug Console**.
+1. Select **Windows** on the menu panel and click **Console**.
 
 2. Type `masternode outputs` on the command input and press Enter. 
 
@@ -54,7 +54,7 @@ and index (the second item in the pair underlined in **blue**) . Exclude the quo
 
 #### I sent the 100k SYS collateral but I don't see it in my Masternode outputs…
 
-1. Select **Tools** on the menu panel and click **Debug Console**.
+1. Select **Windows** on the menu panel and click **Console**.
 
 2. On the options window, select the **Wallet tab** and
  enable **Enable coin control features** then click Ok.  
