@@ -54,9 +54,9 @@ and index (the second item in the pair underlined in **blue**) . Exclude the quo
 
 #### I sent the 100k SYS collateral but I don't see it in my Masternode outputs…
 
-1. Select **Windows** on the menu panel and click **Console**.
+1. On Syscoin-QT menu, select **Preference** 
 
-2. On the options window, select the **Wallet tab** and
+2. On the options tabs, select the **Wallet** and
  enable **Enable coin control features** then click Ok.  
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_faq_04a.png" alt="MasterminerStates" width="500px"/>
 
