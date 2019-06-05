@@ -28,8 +28,11 @@ Paste the masternode configuration from Masterminer dashboard (step #4), then sa
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_walletconfig.png" alt="Masterminer" width="500px"/>  
 Alternatively, if the Masternode config file does not open from the wallet menu,  
 search for the `masternode.conf` file in these locations:   
+
 **[MacOS]**  `:/Users/replace_with_your_username/Library/Application Support/SyscoinCore`
+
 **[Windows]** `:\Users\replace_with_your_username\AppData\Roaming\SyscoinCore`
+
 
 7. Restart your qt wallet. wait for it to sync. the green status bar should no longer be visible.  
 Click the Masternodes tab and select **Initialize All**.  
