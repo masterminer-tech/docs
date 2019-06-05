@@ -68,7 +68,11 @@ and index (the second item in the pair underlined in **blue**) . Exclude the quo
 
 ```This step is essential to specifically tell the wallet where to get the funds during transfer Without this, your wallet may take away some funds from your reserved 100K, thus making it ineligible for Masternodes.```
 
-5. Send 100,000 SYS to your wallet.
+5. Generate a masternode address to deposit. 
+ - Select **Windows** on the menu panel and click **Console**.
+ - Enter: `getnewaddress '' legacy` (you should receive an address as output)
+ 
+6. Send 100,000 SYS to that address output.
 
 
 #### If you encounter any issues.  Please [message us in-app](https://masterminer.tech) for support.
