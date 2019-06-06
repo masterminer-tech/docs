@@ -1,16 +1,11 @@
 <img src="https://s3.amazonaws.com/masterminer/mn_logo.svg" alt="Masterminer" width="300px"/>
 
-
-#### When will masternode pooling service be available?
-Masternode pooling for **Syscoin** is currently supported. New coin support can be requested at max@masterminer.tech
-
-
-#### How do I keep my masternode updated?
-We've got you covered! We'll be monitoring and maintaining the masternodes by keeping them up to date.
+#### How do I keep my masternode up to date?
+We've got you covered! Masterminer will monitor, maintain and keep them up to date.
 
 #### How can I pay for the service?
 Masterminer.tech currently accepts the following payment options:   
-`Credit cards, BTC, ETH, LTC, SYS`
+`Credit card, BTC, ETH, LTC, SYS`
 
 *** 
 
