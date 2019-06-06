@@ -4,8 +4,7 @@
 1. Register and login at https://masterminer.tech/
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_login.png" alt="Masterminer" width="500px"/>
 
-2. Click Add Bide and enter your Masternode's `Preferred Name, Masternode Private Key,   
-Transaction ID, Index and make sure your account is funded. 
+2. Click Add Node and enter your Masternode's `Preferred Name, Masternode Private Key, Transaction ID, Index number`.
 
 <img src="https://firebasestorage.googleapis.com/v0/b/mm-dev-v2.appspot.com/o/Screen%20Shot%202019-06-05%20at%2010.06.14%20PM.png?alt=media&token=c5483b06-364f-4c2a-870a-a1e3d3a9f607" alt="Masterminer" width="500px"/>
 
