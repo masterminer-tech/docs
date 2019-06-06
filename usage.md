@@ -21,17 +21,15 @@ The indicator will go away once your wallet is fully synchronized with the netwo
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_walletboot.png" alt="Masterminer" width="500px"/>
 
 
-6. In the menu click **Tools** and select **Open Masternode Configuration File**. A file will open in a text editor.  
-Paste the masternode configuration from Masterminer dashboard (step #4), then save and close the file.   
-<img src="https://s3.amazonaws.com/masterminer/docs/mu_walletsettings.png" alt="Masterminer" width="500px"/>  
-<img src="https://s3.amazonaws.com/masterminer/docs/mu_walletconfig.png" alt="Masterminer" width="500px"/>  
-Alternatively, if the Masternode config file does not open from the wallet menu,  
-search for the `masternode.conf` file in these locations:   
+6. Navigate to this directory and open `masternode.conf` file with a text editor
 
 **[MacOS]**  `/Users/replace_with_your_username/Library/Application Support/Syscoin`
 
 **[Windows]** `\Users\replace_with_your_username\AppData\Roaming\Syscoin`
 
+Paste the masternode configuration from Masterminer dashboard (step #4), then save and close the file.   
+<img src="https://s3.amazonaws.com/masterminer/docs/mu_walletsettings.png" alt="Masterminer" width="500px"/>  
+<img src="https://s3.amazonaws.com/masterminer/docs/mu_walletconfig.png" alt="Masterminer" width="500px"/>  
 
 7. Restart your qt wallet. wait for it to sync. the green status bar should no longer be visible.  
 Click the Masternodes tab and select **Initialize All**.  
