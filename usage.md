@@ -28,14 +28,13 @@ The indicator will go away once your wallet is fully synchronized with the netwo
 **[Windows]** `\Users\replace_with_your_username\AppData\Roaming\Syscoin`
 
 Paste the masternode configuration from Masterminer dashboard (step #4), then save and close the file.   
-<img src="https://s3.amazonaws.com/masterminer/docs/mu_walletsettings.png" alt="Masterminer" width="500px"/>  
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_walletconfig.png" alt="Masterminer" width="500px"/>  
 
 7. Restart your qt wallet. wait for it to sync. the green status bar should no longer be visible.  
-Click the Masternodes tab and select **Initialize All**.  
+Click the Masternodes tab and select **Initialize**.  
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_synced.png" alt="Masterminer" width="500px"/>  
 
-8. The *Status column* in qt wallet should turned ENABLED after 30 minutes. Once shown ENABLED, you can close the Wallet and enjoy your rewards!  
+8. The *Status column* in qt wallet should turn ENABLED after 30 minutes. Once shown ENABLED, you can close the Wallet and enjoy your rewards!  
 However, if the status is not shown as  ENABLED after 2 hours, verify that [step #6] is correct and repeat [step #7]. Wait for wallet to synchronize and repeat step #8 until ENABLED status is shown.  
 
 
