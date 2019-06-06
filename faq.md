@@ -11,7 +11,7 @@ Masterminer.tech currently accepts the following payment options:
 
 ## HOW TO HOST YOUR OWN MASTERNODE 
 
-#### What is the status of my Masternode? | What does “Error code: -32603” mean?
+# What is the status of my Masternode? | What does “Error code: -32603” mean?
 
 <img src="https://s3.amazonaws.com/masterminer/docs/MasterMiner_States.jpg" alt="MasterminerStates" width="500px"/>
 
