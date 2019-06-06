@@ -15,7 +15,7 @@ Masterminer.tech currently accepts the following payment options:
 
 <img src="https://s3.amazonaws.com/masterminer/docs/MasterMiner_States.jpg" alt="MasterminerStates" width="500px"/>
 
-#### I don’t see a Masternode tab in my wallet app…
+#### I don’t see a Masternode tab in Wallet
 
 1. Select **Settings** on the menu panel and click **Options**.
 
@@ -23,7 +23,7 @@ Masterminer.tech currently accepts the following payment options:
 
 3. Close and restart the wallet app to see the Masternodes tab.
 
-<img src="https://s3.amazonaws.com/masterminer/docs/mu_faq_01.png" alt="MasterminerStates" width="500px"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/mm-dev-v2.appspot.com/o/Screen%20Shot%202019-06-05%20at%209.23.18%20PM.png?alt=media&token=2b91b460-ea21-41dc-80e6-374b4be36b80" alt="MasterminerStates" width="500px"/>
 
 #### Where do I find my Masternode Private Key?
 
