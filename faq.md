@@ -11,11 +11,11 @@ Masterminer.tech currently accepts the following payment options:
 
 ## HOW TO HOST YOUR OWN MASTERNODE 
 
-# What is the status of my Masternode? | What does “Error code: -32603” mean?
+### What is the status of my Masternode? | What does “Error code: -32603” mean?
 
 <img src="https://s3.amazonaws.com/masterminer/docs/MasterMiner_States.jpg" alt="MasterminerStates" width="500px"/>
 
-#### I don’t see a Masternode tab in Wallet
+### I don’t see a Masternode tab in Wallet
 
 1. Select **Settings** on the menu panel and click **Options**.
 
@@ -25,7 +25,7 @@ Masterminer.tech currently accepts the following payment options:
 
 <img src="https://firebasestorage.googleapis.com/v0/b/mm-dev-v2.appspot.com/o/Screen%20Shot%202019-06-05%20at%209.23.18%20PM.png?alt=media&token=2b91b460-ea21-41dc-80e6-374b4be36b80" alt="MasterminerStates" width="500px"/>
 
-#### Where do I find my Masternode Private Key?
+### Where do I find my Masternode Private Key?
 
 1. Select **Windows** on the menu panel and click **Console**.
 
@@ -36,7 +36,7 @@ Masterminer.tech currently accepts the following payment options:
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_faq_02.png" alt="MasterminerStates" width="500px"/>
 
 
-#### Where do I find my txid and index?
+### Where do I find my txid and index?
 
 1. Select **Windows** on the menu panel and click **Console**.
 
@@ -47,7 +47,7 @@ and index (the second item in the pair underlined in **blue**) . Exclude the quo
 
 <img src="https://s3.amazonaws.com/masterminer/docs/mu_faq_03.png" alt="MasterminerStates" width="500px"/>
 
-#### I sent the 100k SYS collateral but I don't see it in my Masternode outputs…
+### I sent the 100k SYS collateral but I don't see it in my Masternode outputs…
 
 1. On Syscoin-QT menu, select **Preference** 
 
