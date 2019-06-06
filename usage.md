@@ -7,7 +7,7 @@
 2. Click Add Bide and enter your Masternode's `Preferred Name, Masternode Private Key,   
 Transaction ID, Index and make sure your account is funded. 
 
-<https://firebasestorage.googleapis.com/v0/b/mm-dev-v2.appspot.com/o/Screen%20Shot%202019-06-05%20at%2010.06.14%20PM.png?alt=media&token=c5483b06-364f-4c2a-870a-a1e3d3a9f607" alt="Masterminer" width="500px"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/mm-dev-v2.appspot.com/o/Screen%20Shot%202019-06-05%20at%2010.06.14%20PM.png?alt=media&token=c5483b06-364f-4c2a-870a-a1e3d3a9f607" alt="Masterminer" width="500px"/>
 
 3. After entering all required information, click **Submit**.   
 You will get a confirmation and your masternode will show up on your Dashboard after few minutes. 
