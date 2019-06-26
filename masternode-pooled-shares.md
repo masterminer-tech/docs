@@ -7,25 +7,11 @@
 ## Masternode Pooling
 Masterminer acts as a mediator to crowdsource the collateral requirements to operate a SYS masternode. Once masternode is operational - rewards will be divided among pool shares owner proportional to shares percentage owned. Masternode pooling enables investors to participate in cryptocurrency mining systems without risking investing a large initial capital.
 
-## Tier 1 (`unavailable`)
-`min` : 1000 SYS per 1% of total pool share   
-`withdrawal`: 3-months commitment   
-`payout`: 4 weeks   
-`fee`: 13% rewards + $0.15(hosting/m)   
-
-
-## Tier 2
-`min` : 10,000 SYS per 10% of total pool shares   
-`withdrawal`: 2-months commitment   
-`payout`: 2 weeks   
-`fee`: 8% rewards + $1.50(hosting/m)   
-
-
 ## Tier 3 (`unavailable`)
-`min` : 25,000 SYS per 25% of total shares   
+`min` : 1000 SYS per 1% of total pool share   
 `withdrawal`: 1-month commitment   
-`payout`: 1 week   
-`fee`: 5% rewards + $3.75(hosting/m)   
+`payout`: monthly   
+`fee`: 5% rewards + $5(hosting/m)   
 
 
 `shares` - 1000 SYS per pooling share .   
