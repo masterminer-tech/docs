@@ -15,11 +15,4 @@ Masterminer acts as a mediator to crowdsource the collateral requirements to ope
 
 
 `shares` - 1000 SYS per pooling share .   
-
-`airdrops` - supporting soon. Subscribe to receive latest email and updates .  
-
-`min` - minimum amount of SYS required to join pool. Can only purchase in multiples of minimum share .   
-
-`withdrawal` - pooling funds are automatically returned to original depositing address when commitment period expires . 
-
-`fee - total` rewards fee percentage plus hosting fees ($15/month/full node) .  
+`fee - total` rewards fee percentage plus hosting fees ($5/month/full node) .  
