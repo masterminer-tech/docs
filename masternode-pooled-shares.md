@@ -7,7 +7,7 @@
 ## Masternode Pooling
 Masterminer acts as a mediator to crowdsource the collateral requirements to operate a SYS masternode. Once masternode is operational - rewards will be divided among pool shares owner proportional to shares percentage owned. Masternode pooling enables investors to participate in cryptocurrency mining systems without risking investing a large initial capital.
 
-## Tier 3 (`unavailable`)
+## Tier 3 
 `min` : 1000 SYS per 1% of total pool share   
 `withdrawal`: 1-month commitment   
 `payout`: monthly   
